@@ -1,0 +1,2 @@
+# helloWorld
+ideas, resources, etc.
