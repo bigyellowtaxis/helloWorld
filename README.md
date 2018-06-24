@@ -4,7 +4,13 @@
 
 **Questions**
 1. Laptop security/updates
-1. Blah
+   1. laptop makes a squealing noise when on....
+1. QT:
+   1. What does each part of `window::window(QWidget *parent) :
+    QWidget(parent) {` mean?
+   1. 
+
+
    1. indented
    1. code `init` in
 `def HelloWorld:
