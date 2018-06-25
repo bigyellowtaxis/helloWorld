@@ -1,7 +1,7 @@
 # helloWorld
 
 *ideas, resources, etc.*
-
+foo
 **Questions**
 1. Laptop security/updates
    1. laptop makes a squealing noise when on....
